@@ -20,6 +20,6 @@ The primary goal of this project is to provide real-time alerts for GitHub repos
 - Telegram bot
 
 ## Raspberry Pi Pico Setting
-Connect the evb-pico-w5100s to the Ethernet and prepare to communicate with the PC.
-[Tutorial Guide](https://github.com/Wiznet/RP2040-HAT-MicroPython)
-For the firmware and Ethernet communication code related to the RP2040, I referenced the above GitHub to write the code
+Connect the evb-pico-w5100s to the Ethernet and prepare to communicate with the PC.  
+[Tutorial Guide](https://github.com/Wiznet/RP2040-HAT-MicroPython)  
+For the firmware and Ethernet communication code related to the RP2040, I referenced the above GitHub to write the code  
