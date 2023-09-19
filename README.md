@@ -78,9 +78,7 @@ if __name__ == "__main__":
 ```
 
 ## PC Server Setting
-```python
 
-```
 ```python
 #Code to send from PC server to Pico
 import socket
